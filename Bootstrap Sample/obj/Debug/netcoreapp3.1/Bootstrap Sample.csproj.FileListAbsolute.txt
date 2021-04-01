@@ -1,0 +1,38 @@
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\bin\Debug\netcoreapp3.1\appsettings.json
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\bin\Debug\netcoreapp3.1\libman.json
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\bin\Debug\netcoreapp3.1\Bootstrap Sample.exe
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\bin\Debug\netcoreapp3.1\Bootstrap Sample.deps.json
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\bin\Debug\netcoreapp3.1\Bootstrap Sample.runtimeconfig.json
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\bin\Debug\netcoreapp3.1\Bootstrap Sample.runtimeconfig.dev.json
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\bin\Debug\netcoreapp3.1\Bootstrap Sample.dll
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\bin\Debug\netcoreapp3.1\Bootstrap Sample.pdb
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\bin\Debug\netcoreapp3.1\Bootstrap Sample.Views.dll
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\bin\Debug\netcoreapp3.1\Bootstrap Sample.Views.pdb
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.csprojAssemblyReference.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.AssemblyInfoInputs.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.AssemblyInfo.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.csproj.CoreCompileInputs.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.MvcApplicationPartsAssemblyInfo.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.RazorAssemblyInfo.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.RazorAssemblyInfo.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\staticwebassets\Bootstrap Sample.StaticWebAssets.Manifest.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\staticwebassets\Bootstrap Sample.StaticWebAssets.xml
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\scopedcss\bundle\Bootstrap Sample.styles.css
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.TagHelpers.input.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.TagHelpers.output.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.RazorCoreGenerate.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.RazorTargetAssemblyInfo.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.RazorTargetAssemblyInfo.cs
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.Views.pdb
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.dll
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.pdb
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.genruntimeconfig.cache
+D:\shariaty\4\Mabahes Vizhe\Projects\Bootstrap Sample\Bootstrap Sample\obj\Debug\netcoreapp3.1\Bootstrap Sample.csproj.CopyComplete

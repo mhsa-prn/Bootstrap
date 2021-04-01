@@ -1,0 +1,203 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row" style="margin-top:10px;">
+    <div style="margin-left:16%;margin-right:1%;height:150px;width:15%;">
+        <img src="~/Images/potato.png"  />
+    </div>
+    <div style="margin-left:1%;margin-right:1%;height:150px;width:15%;">
+        <img src="~/Images/sandwich.png" />
+    </div>
+    <div style="margin-left:1%;margin-right:1%;height:150px;width:15%;">
+        <img src="~/Images/burger.png" />
+    </div>
+    <div style="margin-left:1%;margin-right:16%;height:150px;width:15%;">
+        <img src="~/Images/pizza.png" />
+    </div>
+</div>
+
+<div style="margin-top:10px;text-align:center;">
+    <h3 class="display-4" style="font-family:Sarbaz;"> خوشمزه ها</h3>
+</div>
+
+<div class="row">
+    <div class="col">
+        <input class="btn btn-danger" type="button" value="مشاهده همه" style="font-family:'B Roya'; margin-bottom:3px;" action=# />
+    </div>
+</div>
+
+
+
+
+<div class="row">
+    <div class="col-md-4">
+        <!--Card-->
+        <mdb-card cascade="true" wider="true">
+
+            <!--Card image-->
+            <div class="view view-cascade overlay waves-light" mdbWavesEffect>
+                <img src="~/Images/kfc.png" />
+                <a>
+                    <div class="mask rgba-white-slight"></div>
+                </a>
+            </div>
+            <!--/Card image-->
+
+            <mdb-card-body cascade="true" class="text-center">
+                <!--Card content-->
+                <!--Title-->
+                <h4 class="card-title" style="font-family:'B Roya'">
+                    <strong>بشقاب ویژه مرغ کنتاکی</strong>
+                </h4>
+                
+
+                <p style="direction:rtl;">
+                    78000 تومان
+                </p>
+
+
+            </mdb-card-body>
+            <!--/.Card content-->
+
+        </mdb-card>
+        <!--/.Card-->
+    </div>
+
+    <div class="col-md-4">
+        <!--Card-->
+        <mdb-card cascade="true" narrower="true">
+
+            <!--Card image-->
+            <div class="view view-cascade overlay waves-light" mdbWavesEffect>
+                <img src="~/Images/pizzaa.png" />
+                <a>
+                    <div class="mask rgba-white-slight"></div>
+                </a>
+            </div>
+            <!--/Card image-->
+
+            <mdb-card-body cascade="true" class="text-center">
+                <!--Card content-->
+                <!--Title-->
+                <h4 class="card-title" style="font-family:'B Roya'">
+                    <strong>پیتزا پپرونی ویژه</strong>
+                </h4>
+
+
+                <p style="direction:rtl;">
+                    54000 تومان
+                </p>
+
+
+            </mdb-card-body>
+            <!--/.Card content-->
+
+        </mdb-card>
+        <!--/.Card-->
+    </div>
+
+    <div class="col-md-4">
+        <!--Card-->
+        <mdb-card cascade="true">
+
+            <!--Card image-->
+            <div class="view view-cascade overlay waves-light" mdbWavesEffect>
+                <img src="~/Images/burgerr.png" />
+                <a>
+                    <div class="mask rgba-white-slight"></div>
+                </a>
+            </div>
+            <!--/Card image-->
+
+            <mdb-card-body cascade="true" class="text-center">
+                <!--Card content-->
+                <!--Title-->
+                <h4 class="card-title" style="font-family:'B Roya'">
+                    <strong>برگر ویژه</strong>
+                </h4>
+
+
+                <p style="direction:rtl;">
+                    49000 تومان
+                </p>
+
+
+            </mdb-card-body>
+            <!--/.Card content-->
+
+        </mdb-card>
+        <!--/.Card-->
+    </div>
+</div>
+
+
+
+
+
+
+<div class="row ">
+    <div class="card mb-3 col-md-3" style="max-width: 25%;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+                <img src="~/Images/burgerCard.png" />
+            </div>
+            <div class="col-md-8">
+                <div class="card-body" style="font-family:'B Roya';direction:rtl">
+                    <h5 class="card-title">همبرگر</h5>
+                    <p class="card-text">35 تومان </p>
+                    <p class="card-text"><small class="text-muted">3 دقیقه پیش</small></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="card mb-3 col-md-3" style="max-width: 25%;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+                <img src="~/Images/pizzaCard.png" />
+            </div>
+            <div class="col-md-8">
+                <div class="card-body" style="font-family:'B Roya';direction:rtl">
+                    <h5 class="card-title">پیتزا</h5>
+                    <p class="card-text">49 تومان </p>
+                    <p class="card-text"><small class="text-muted">3 دقیقه پیش</small></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card mb-3 col-md-3" style="max-width: 25%;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+                <img src="~/Images/sandwichCard.png" />
+            </div>
+            <div class="col-md-8">
+                <div class="card-body" style="font-family:'B Roya';direction:rtl">
+                    <h5 class="card-title">ساندویچ</h5>
+                    <p class="card-text">36 تومان </p>
+                    <p class="card-text"><small class="text-muted">3 دقیقه پیش</small></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card mb-3 col-md-3" style="max-width: 25%;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+                <img src="~/Images/potatoCard.png" />
+            </div>
+            <div class="col-md-8">
+                <div class="card-body" style="font-family:'B Roya';direction:rtl">
+                    <h5 class="card-title">سیب زمینی</h5>
+                    <p class="card-text">18 تومان </p>
+                    <p class="card-text"><small class="text-muted">3 دقیقه پیش</small></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
